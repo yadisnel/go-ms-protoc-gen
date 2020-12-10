@@ -1,4 +1,5 @@
-[![Inline docs](http://inch-ci.org/github/yadisnel/protoc-gen-go-ms.svg?branch=master)](http://inch-ci.org/github/yadisnel/{protoc-gen-go-ms})
+[![Build Status](http://inch-ci.org/github/yadisnel/protoc-gen-go-ms.svg?branch=master)](https://travis-ci.org/yadisnel/protoc-gen-go-ms)
+[![Inline docs](http://inch-ci.org/github/yadisnel/protoc-gen-go-ms.svg?branch=master)](http://inch-ci.org/github/yadisnel/protoc-gen-go-ms)
 
 # protoc-gen-go-ms
 
