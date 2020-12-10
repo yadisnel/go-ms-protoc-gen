@@ -1,4 +1,4 @@
-[![Build Status](http://travis-ci.org/github/yadisnel/protoc-gen-go-ms.svg?branch=master)](https://travis-ci.org/yadisnel/protoc-gen-go-ms)
+[![Build Status](http://travis-ci.com/github/yadisnel/protoc-gen-go-ms.svg?branch=master)](https://travis-ci.com/yadisnel/protoc-gen-go-ms)
 
 # protoc-gen-go-ms
 
