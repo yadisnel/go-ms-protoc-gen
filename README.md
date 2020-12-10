@@ -1,3 +1,5 @@
+[![CI Status](https://github.com/yadisnel/protoc-gen-go-ms/workflows/CI/badge.svg?branch=master&event=push)](https://yadisnel.github.io/protoc-gen-go-ms/)
+
 # protoc-gen-go-ms
 
 This is protobuf code generation for go-ms. We use protoc-gen-go-ms to reduce boilerplate code.
