@@ -89,4 +89,4 @@ protoc --plugin=protoc-gen-go=$GOPATH/bin/protoc-gen-go \
 
 ## LICENSE
 
-protoc-gen-go-ms is a liberal reuse of protoc-gen-go hence we maintain the original license 
+protoc-gen-go-ms is a liberal reuse of protoc-gen-go hence we maintain the original license.
