@@ -1,4 +1,4 @@
-[![CI Status](https://github.com/yadisnel/protoc-gen-go-ms/workflows/CI/badge.svg?branch=master&event=push)](https://yadisnel.github.io/protoc-gen-go-ms/)
+[![Inline docs](http://inch-ci.org/github/yadisnel/protoc-gen-go-ms.svg?branch=master)](http://inch-ci.org/github/yadisnel/{protoc-gen-go-ms})
 
 # protoc-gen-go-ms
 
