@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to go-ms Community. 
+
+### Here you will find documentation about the proto-gen-go-ms plugin.
+
 
 You can use the [editor on GitHub](https://github.com/yadisnel/protoc-gen-go-ms/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
