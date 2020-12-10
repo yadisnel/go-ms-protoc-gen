@@ -1,0 +1,1 @@
+protoc --plugin=protoc-gen-go=$GOPATH/bin/protoc-gen-go --plugin=protoc-gen-go-ms=$GOPATH/bin/protoc-gen-go-ms --proto_path=$GOPATH/src:. --go-ms_out=. --go_out=. greeter.proto
