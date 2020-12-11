@@ -6,7 +6,7 @@ Here you will find documentation about the `proto-gen-go-ms` plugin. This is pro
 
 ### Install
 
-Use the go get command to install the protoc-gen-go-ms binary:
+Use the go get command to install the `protoc-gen-go-ms` binary:
 
 ```markdown
 go get github.com/yadisnel/protoc-gen-go-ms/v2
