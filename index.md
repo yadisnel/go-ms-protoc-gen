@@ -1,5 +1,7 @@
 ## Welcome to the go-ms community
 
+[![Build Status](https://travis-ci.com/yadisnel/protoc-gen-go-ms.svg?branch=master)](https://travis-ci.com/yadisnel/protoc-gen-go-ms)
+
 Here you will find documentation about the proto-gen-go-ms plugin. This is protobuf code generation for go-ms. We use protoc-gen-go-ms to reduce boilerplate code.
 
 ### Install
