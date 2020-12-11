@@ -1,7 +1,7 @@
 ## Welcome to the go-ms community
 
 [![Build Status](https://travis-ci.com/yadisnel/protoc-gen-go-ms.svg?branch=master)](https://travis-ci.com/yadisnel/protoc-gen-go-ms)
-[![License](https://img.shields.io/:license-BSD-green.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![License](https://img.shields.io/:license-BSD-green.svg?color=brightgreen)](https://opensource.org/licenses/BSD-3-Clause)
 
 Here you will find documentation about the `proto-gen-go-ms` plugin. This is protobuf code generation for go-ms. We use `protoc-gen-go-ms` to reduce boilerplate code.
 
