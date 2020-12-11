@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/yadisnel/protoc-gen-go-ms.svg?branch=master)](https://travis-ci.com/yadisnel/protoc-gen-go-ms)
-[![License](https://img.shields.io/:license-apache-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/:license-BSD-green.svg?color=brightgreen)](https://opensource.org/licenses/BSD-3-Clause)
 
 # protoc-gen-go-ms
 
